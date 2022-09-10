@@ -1,0 +1,7 @@
+.stack-work/
+*~
+lang
+app/*.o
+app/*.hi
+src/*.hi
+src/*.o
